@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+title: WaysToGoYet
+author: Amelia Lucienne Hoyt
+email: amelia.hoyt@jax.org
+description: >
+  Fix this later
+
+github_username:  alhoyt
+linkedin_username: ameliahoyt
+
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
