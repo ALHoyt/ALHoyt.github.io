@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-# <img src="/img/personal_history.png" alt="Personal History"/>
-
-Warning: Objects are closer than they appear.
+<img src="/img/personal_history.png" alt="Personal History"/>
 
 I was always interested in science. And, like many I think, I was interested in all kinds of scientific fields. 
 When I was trying to decide what is was I wanted to study in college, I decided not on a discipline of science, 
