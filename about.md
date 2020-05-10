@@ -22,9 +22,12 @@ The first class I took was Microbiology. And I got hooked. I decided to do a bio
 spearheaded by my advisor, Dr. Nicholas Edgington. I participated in the Small World (now Tiny Earth) Initiative,
 trying to isolate bacteria that are antibiotic producers. I was not successful, but I enjoyed the experience 
 immensely, and that led me to apply for an internship at the Jackson Laboratory. I fall 2018 I joined the lab of 
-Dr. Julia Oh, a PI investigating the human microbiome. Working with Elizabeth Fleming, B.S, we worked on isolating 
-bacteria from clinical samples of chronic fatigue syndrome patients, looking for differences in activation of 
-immune cells, particularly MAIT and AhR.
+[Dr. Julia Oh](https://www.jax.org/research-and-faculty/research-labs/the-oh-lab), a PI investigating the human microbiome. Working with Elizabeth Fleming, B.S, we worked on isolating bacteria from clinical samples of chronic fatigue syndrome patients, looking for differences in activation of immune cells, particularly MAIT and AhR.
+
+In fall of 2019 I also joined the SEA-PHAGES program, and discovered a novel bacteriophage, Cumula, which infects 
+_Microbacterium foliorum_. I helped annotate the genome for the phage Stromboli, and presented our findings at the
+annual SEA-PHAGES conference at HHMI. I also discovered the phage Hoyt, which is the second phage to be found that
+infects the host _Microbacterium nematophilum_.
 
 In Fall 2020, I graduated from Southern with a B.S. in Biotechnology, along with three minors in Chemistry,
 Mathematics, and Anthropology. The last came as a surprise. I took a few basic anthropology classes with 
@@ -36,5 +39,3 @@ Henry Whitfield House in Guilford, CT.
 
 At the beginning of 2020, I joined the lab as a permanent member. I study the human microbiome and its effects
 on immune cell activation in MECFS, Lung Cancer, and Icthyosis patients. 
-
-
