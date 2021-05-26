@@ -1,13 +1,12 @@
 theme: jekyll-theme-minimal
 title: Macrophage in the Computer Age
 author: Amelia Lucienne Hoyt
-email: amelia.hoyt@jax.org
+email: hoyt.amelia@gmail.com
 description: >
   Unraveling the Human Microbiome
 
 github_username:  alhoyt
 linkedin_username: ameliahoyt
-
 
 theme: minima
 plugins:
